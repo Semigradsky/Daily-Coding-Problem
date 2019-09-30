@@ -5,3 +5,5 @@
 - [03 - medium](03-medium)
 - [04 - hard](04-hard)
 - [05 - medium](05-medium)
+- [06 - hard](06-hard)
+- [07 - medium](07-medium)
