@@ -9,3 +9,4 @@
 - [07 - medium](07-medium)
 - [08 - easy](08-easy)
 - [09 - hard](09-hard)
+- [10 - medium](10-medium)
