@@ -1,4 +1,4 @@
-import { Node } from './BinaryTree'
+import { Node } from './../BinaryTree'
 
 export function serialize(root: Node<string>) {
     if (root === null) {

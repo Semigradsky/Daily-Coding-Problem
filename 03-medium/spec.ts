@@ -1,4 +1,4 @@
-import { Node } from './BinaryTree'
+import { Node } from './../BinaryTree'
 import { serialize, deserialize } from '.'
 
 test('Tree from task description', () => {
